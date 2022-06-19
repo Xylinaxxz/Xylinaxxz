@@ -4,8 +4,10 @@
 
 <p align="center">
   <img src="https://cdn.discordapp.com/emojis/838194964068433940.gif?size=56&quality=lossless">
-  <img src="https://discord.c99.nl/widget/theme-1/617590088066531338.png">
+  <a href="https://github.com/Xylinaxxz">
+  <img src="https://discord.c99.nl/widget/theme-4/617590088066531338.png" width="400"></a>
   <img src="https://cdn.discordapp.com/emojis/838194964068433940.gif?size=56&quality=lossless">
+
 
 </p>
 
@@ -24,3 +26,4 @@ const Tawan = {
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+ 
