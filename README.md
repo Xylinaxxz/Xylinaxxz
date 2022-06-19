@@ -9,13 +9,13 @@
 
 </p>
 
-### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒𝑠
+### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝑀𝑌 𝑃𝑅𝑂𝐹𝐼𝐿𝐸
 ```js
 const Tawan = {
     name: "TAWAN",
     age: 20,
     from: "Thailand",
-    Discord: " Developer#6716 ",
+    Discord: "Developer#6716",
     languages: ["HTML", "CSS", "JavaScript","Ract"]
 };
 ```
