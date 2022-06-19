@@ -17,7 +17,8 @@ const Tawan = {
     Name: "TAWAN",
     Age: 20,
     From: "Thailand",
-    Discord: "Xylinaxxz#6716",
+    IG: "Xylinaxxz",
+    Discord: "Xylinaxxz#6716",    
     Languages: ["HTML", "CSS", "JavaScript","Ract"]
 };
 ```
