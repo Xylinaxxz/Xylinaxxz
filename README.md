@@ -13,13 +13,14 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝑀𝑌 𝑃𝑅𝑂𝐹𝐼𝐿𝐸
 ```js
-const Tawan = {
+const TAWAN = {
     Name: "TAWAN",
     Age: 20,
     From: "Thailand",
     IG: "Xylinaxxz",
+    Facebook: "Maasuwan  cheheng",
     Discord: "Xylinaxxz#6716",    
-    Languages: ["HTML", "CSS", "JavaScript","Ract"]
+    Languages: ["HTML", "CSS", "JavaScript",]
 };
 ```
 
