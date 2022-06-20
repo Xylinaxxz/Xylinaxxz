@@ -20,8 +20,10 @@ const TAWAN = {
     IG: "Xylinaxxz",
     Discord: "Xylinaxxz#6716",    
     Languages: ["HTML", "CSS", "JavaScript",]
+    
 };
 ```
+
 <a href="https://github.com/Xylinaxxz"><img alt="Xylinaxxz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xylinaxxz&bg_color=0D1117&color=49a9ff&line=49a9ff&point=FFFFFF&hide_border=true" /></a>
 
 
