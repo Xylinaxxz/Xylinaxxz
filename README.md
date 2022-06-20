@@ -18,7 +18,6 @@ const TAWAN = {
     Age: 20,
     From: "Thailand",
     IG: "Xylinaxxz",
-    Facebook: "Maasuwan  cheheng",
     Discord: "Xylinaxxz#6716",    
     Languages: ["HTML", "CSS", "JavaScript",]
 };
