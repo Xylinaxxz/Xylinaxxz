@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/emojis/838436760328601610.gif?size=56&quality=lossless">
   <a href="https://facebook.com/Xylinaxxz">
-  <img src="https://discord.c99.nl/widget/theme-3/617590088066531338.png" width="435"></a>
+  <img src="https://discord.c99.nl/widget/theme-3/617590088066531338.png" width="425"></a>
   <img src="https://cdn.discordapp.com/emojis/838436760337645568.gif?size=56&quality=lossless">
 
 
