@@ -16,7 +16,7 @@
 </p>
 
 ### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝑀𝑌 𝑃𝑅𝑂𝐹𝐼𝐿𝐸
-<img hight="400" width="450" alt="GIF" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img hight="400" width="460" alt="GIF" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```js
 const TAWAN = {
