@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/838080777572581388/987967876512251944/welcome.gif">
 
@@ -23,10 +22,8 @@ const TAWAN = {
     
 };
 ```
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xylinaxxz"/>
 <a href="https://github.com/Xylinaxxz"><img alt="Xylinaxxz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xylinaxxz&bg_color=0D1117&color=49a9ff&line=49a9ff&point=FFFFFF&hide_border=true" /></a>
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
