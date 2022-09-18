@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome+Bro+❤️;This+is+Xylinaxxz+;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wellcome+Bro+🐸;This+is+Xylinaxxz+;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <!--p align="center">
@@ -15,8 +15,8 @@
 
 </p>
 
-### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝑀𝑌 𝑃𝑅𝑂𝐹𝐼𝐿𝐸
-<img hight="400" width="460" alt="GIF" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="35"> My Profile
+<img hight="230" width="230" alt="GIF" align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```js
 const TAWAN = {
@@ -24,41 +24,26 @@ const TAWAN = {
     Age: 20,
     From: "Thailand",
     IG: "Xylinaxxz",
-    Discord: "Xylinaxxz#6716",    
-    Languages: "HTML", "CSS", "JavaScript",   
-}    
-const PC = {
-    CPU: "AMD Ryzen7 3700X",
-    MB: "ASUS ROG STRIX X570",
-    Memory: "G.SKILL TRIDENZ NEO DDR4 32 GB (3600)",
-    SSD: "SAMSUNG 960 EVO M.2 250 GB",
-    GPU: "ASUS ROG STRIX Geforce RTX 2080 TI",
-    PSU: "THERMALTAKE 750W TOUCHPOWER DPS G RGB",
-    Mornitor: "MSI OPTIX G27 144HZ",    
-}
+    Discord: "Xylinaxxz#6716",
 };
 ```
-### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸𝑆
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-</td><td valign="top" width="33%">
 
-### <img src="https://cdn.discordapp.com/emojis/838194962214289438.gif?size=56&quality=lossless"> 𝑀𝑌 𝐺𝐼𝑇𝐻𝑈𝐵 𝑆𝑇𝐴𝑇𝑆
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xylinaxxz">
+### <img src="https://cdn.discordapp.com/emojis/790887980780486697.gif?&quality=lossless" width="35"> Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### <img src="https://cdn.discordapp.com/emojis/799290580009353227.gif?&quality=lossless" width="35"> My Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xylinaxxz&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5">
 <a href="https://github.com/Xylinaxxz"><img alt="Xylinaxxz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Xylinaxxz&bg_color=0D1117&color=49a9ff&line=49a9ff&point=FFFFFF&hide_border=true"/></a>
 
-<p align="center">
+<!--p align="center">
 <img src="https://raw.githubusercontent.com/Kamionn/Kamionn/main/workflows/games_snake.svg">
-</p>
-
-
-
-
-
-
-
-
+</p-->
 
 
 
